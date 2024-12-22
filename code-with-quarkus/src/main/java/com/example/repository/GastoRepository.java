@@ -1,4 +1,4 @@
-package main.java.com.example.repository;
+package com.example.repository;
 
 import com.example.model.Gasto;
 import com.fasterxml.jackson.core.type.TypeReference;
